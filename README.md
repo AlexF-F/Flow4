@@ -22,7 +22,7 @@
 
 #### Resultados y conclusiones 
 
-A continuación puede ver el tablero resultante.<a href="https://www.mozilla.org/es-ES/">tablero</a>.
-A continuación puedes ver los nodos del flow.<a href="https://www.mozilla.org/es-ES/">tablero</a>.
+A continuación puede ver el tablero resultante.<a href="https://github.com/AlexF-F/Flow4/blob/main/Tablero.jpeg">tablero</a>.
+A continuación puedes ver los nodos del flow.<a href="https://github.com/AlexF-F/Flow4/blob/main/Nodo.jpeg">tablero</a>.
 #### Video representativo
-Puedes encontrar el video explicativo en el siguiente enlace: <a href="https://www.mozilla.org/es-ES/">Video</a>.
+Puedes encontrar el video explicativo en el siguiente enlace: <a href="https://drive.google.com/file/d/1wX6SWxPIQ12RLbYAPVyLxXDXaB4Cij3c/view?usp=sharing">Video</a>.
